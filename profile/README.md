@@ -25,4 +25,4 @@ Here's a quick summary of resources to help you find your way around:
 
 * **rt_core**: [EerieLeap Real-Time Core](https://github.com/EerieLeap/rt_core) - core common module used by Zephyr RTOS projects
 * **rt_daq**: [EerieLeap Real-Time DAQ](https://github.com/EerieLeap/rt_daq) - Zephyr RTOS project for data acquisition and processing device
-* **rt_gauge**: [EerieLeap Real-Time DAQ](https://github.com/EerieLeap/rt_gauge) - Zephyr RTOS project for indication device gauge/dashboard
+* **rt_gauge**: [EerieLeap Real-Time Gauge](https://github.com/EerieLeap/rt_gauge) - Zephyr RTOS project for indication device gauge/dashboard
