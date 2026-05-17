@@ -8,9 +8,9 @@ Core features of the system include:
 - CAN bus data collection and streaming
 - [CAN DBC](https://www.csselectronics.com/pages/can-dbc-file-database-intro) configuration import support
 - Data logging in [ASAM MDF4](https://www.asam.net/standards/detail/mdf/) format
-- Custom expressions for sensor value calculation
-- Lua script processing for sensor values and CAN messages
-- Native UI applications for multiple platforms
+- Custom math expressions for sensor value calculation (including derived values from other sensors)
+- [Lua](https://www.lua.org/) script processing for sensor values and CAN messages
+- Modular, configurable sensor dashboard with flexible widget layout
 - Multi-device network with many-to-many relationships
 - Cross-platform companion app
 
