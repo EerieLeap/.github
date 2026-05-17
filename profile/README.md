@@ -1,16 +1,17 @@
-EerieLeap is an open-source data acquisition, processing and monitoring system. It provides a robust platform for reading, processing, and managing sensor data, supporting digital, analog, and CAN Bus data inputs.
+EerieLeap is an open-source data acquisition, processing, and monitoring system. It provides a robust platform for sensor data collection and management, supporting digital, analog, and CAN bus inputs.
 
 ## Features
 
 Core features of the system include:
 
 - Real-time sensor data collection and processing
-- CAN Bus data collection and streaming
-- Data logging
+- CAN bus data collection and streaming
+- [CAN DBC](https://www.csselectronics.com/pages/can-dbc-file-database-intro) configuration import support
+- Data logging in [ASAM MDF4](https://www.asam.net/standards/detail/mdf/) format
 - Custom expressions for sensor value calculation
 - Lua script processing for sensor values and CAN messages
-- Flexible UI
-- Multi device network with many-to-many relationship
+- Native UI applications for multiple platforms
+- Multi-device network with many-to-many relationships
 - Cross-platform companion app
 
 ## Resources
@@ -19,7 +20,7 @@ Here's a quick summary of resources to help you find your way around:
 
 * **Documentation**: [EerieLeap Real-Time Documentation](https://github.com/EerieLeap/rt_docs)
 * **Wiki**: [EerieLeap Real-Time GitHub wiki](https://github.com/EerieLeap/rt_docs/wiki)
-* **CAN Device Management Protocol**: [Documentation](https://github.com/EerieLeap/rt_core/blob/main/src/subsys/cdmp/README.md) for custom CANBus network protocol build for EerieLeap project
+* **CAN Device Management Protocol**: [Documentation](https://github.com/EerieLeap/rt_core/blob/main/src/subsys/cdmp/README.md) for custom CAN bus network protocol built for the EerieLeap project
 
 ## Projects
 
