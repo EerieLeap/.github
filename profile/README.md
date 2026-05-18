@@ -14,6 +14,10 @@ Core features of the system include:
 - Multi-device network with many-to-many relationships
 - Cross-platform companion app
 
+## Data Flow Diagram
+
+![Data Flow Diagram](./assets/data_flow_diagram.png)
+
 ## Resources
 
 Here's a quick summary of resources to help you find your way around:
